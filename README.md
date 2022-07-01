@@ -18,7 +18,7 @@
 #### [《手撸spring》](https://github.com/wuliGGG/small-springframework-core) ⭐⭐⭐
 
 >通过仿写Spring理解Spring的设计原理，剔除 Spring 源码中繁杂的内容，摘取整体框架中的核⼼逻辑，简化代码实现过程，保留核⼼功能，例如：IOC、AOP、Bean⽣命周期、上下⽂、作⽤域、资源处理等内容实现！
-#### [《手撸mybatis》](https://github.com/wuliGGG/small-mybatis-core) ⭐⭐⭐
+#### [《手撸mybatis》](https://github.com/wuliGGG/small-mybatis-core) ⭐⭐⭐⭐⭐
 >在手写的过程中学习 Mybatis 从解析、绑定、反射、缓存，到回话和事务操作，以及如何与 Spring 进行关联注册 Bean 对象，完成整合部分功能逻辑。通过这些内容的拆解实现，进一步掌握Mybatis 的设计理念！
 
 ### Languages and Tools
